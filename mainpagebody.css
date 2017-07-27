@@ -1,0 +1,30 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  height: 100%;
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+	background-image: url("photomain.jpg");
+  background-size: 55%;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+div p{
+  background-color: #fff;
+  font-size: 50px;
+  font-family: "Megrim", serif;
+  margin-left: 10%;
+  margin-top: 17%;
+
+}
+
+div button{
+  align-items: center;
+  align-content: center;
+}
